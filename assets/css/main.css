@@ -40,3 +40,9 @@
     justify-content: center;
     height: 100vh;
 }
+
+@media (max-width: 600px) {
+    #menu {
+        display: none;
+    }
+}
