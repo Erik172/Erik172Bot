@@ -1,0 +1,4 @@
+.vscode/
+
+# Claves Y valores secretos
+.env
